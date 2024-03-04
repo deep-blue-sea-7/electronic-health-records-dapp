@@ -2,7 +2,9 @@
 
 ## Site URL
 
-[EHR DApp URL](https://ehr.inovantech.com)
+[coming soon]
+
+<!-- [EHR DApp URL](https://ehr.inovantech.com) -->
 
 ## About
 
